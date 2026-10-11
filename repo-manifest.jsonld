@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-libfaketime/commit/364e1ce7a4350d63a70e678723818bba56c01c2d",
       "git:hexsha": "364e1ce7a4350d63a70e678723818bba56c01c2d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0.0",
+      "repolex:parsedAt": "2026-10-11T02:50:51.820339+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-libfaketime/commit/f171ba292c4064bd75dd363d00e747e2f2db78b1",
