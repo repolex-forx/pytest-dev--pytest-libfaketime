@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-libfaketime",
+  "versions": [
+    {
+      "commit": "364e1ce7a4350d63a70e678723818bba56c01c2d",
+      "parsed_at": "2026-10-11T02:48:03.213401+00:00",
+      "tag": "1.0.0",
+      "filetree": "filetree/364e1ce7a4350d63a70e678723818bba56c01c2d.nq.gz",
+      "blobs": [
+        "blob/6f525b65ebaddbf5530dbd925ebd0752e6685d3f.nq.gz",
+        "blob/378c7fd13fdd5bea51a168d491b9b0708c680bfa.nq.gz",
+        "blob/768968db548da53f2b7f38268157ca8f512295f8.nq.gz",
+        "blob/bfaf81929acd723a55a436a2c59a94082dd80bc8.nq.gz",
+        "blob/10465d5605a8a338c4e16291ed923f77c2f9636e.nq.gz",
+        "blob/174110f75d4a58d1229c586a024e77df83583f80.nq.gz",
+        "blob/5492f2c9c2fc8bc6bab478d932ac5dba528b7175.nq.gz",
+        "blob/451676ebf216bc77fb40982a897ec1b6c8fda5d6.nq.gz",
+        "blob/cb1b8653bf96fccba9ac6c03221066d781451484.nq.gz",
+        "blob/acc033f9dedc341d0db71fc6b2dedda7d5d54495.nq.gz",
+        "blob/cf70ba9868c9bf3b216dc6380ad8e606c6740a9e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
